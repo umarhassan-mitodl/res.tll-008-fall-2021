@@ -5,6 +5,8 @@ draft: false
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mitres-tll008s23_6390_reinforcement.pdf
 file_size: 457738
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
